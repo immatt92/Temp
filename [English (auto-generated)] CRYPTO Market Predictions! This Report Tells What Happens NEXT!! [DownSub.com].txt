@@ -1,0 +1,988 @@
+if you're looking for an edge in the
+
+crypto Market you need to follow the
+
+whales and when it comes to whale
+
+watching one of the companies that has
+
+the most Insight is bitfinex not only is
+
+the exchange absolutely swimming with
+
+whales but it's also the sister company
+
+of tether the most influential company
+
+in crypto so when we saw that bitfinex
+
+had published a report containing an
+
+in-depth analysis of the crypto Market
+
+we knew we had to find out what it said
+
+today we're going to summarize this
+
+report and tell you what it could mean
+
+for
+
+crypto the report we'll be summarizing
+
+today is titled quote constrained
+
+Bitcoin Supply and options pricing are
+
+hinting at more volatility to come it's
+
+one of many weekly bitfinex Alpha
+
+reports that the exchange has published
+
+but there's a reason why we picked this
+
+one specifically that's because it was
+
+published in the first week of October
+
+the week before the crypto Market Market
+
+dipped in other words the prediction
+
+made in the title of the report seems to
+
+have come true and a report called quote
+
+Bitcoin flows to long-term holders as
+
+volatility jumps was published the
+
+following week we'll leave links to both
+
+reports in the
+
+description now this particular report
+
+begins with a lengthy disclaimer which
+
+states quote this newsletter contains
+
+forward-looking statements statements
+
+that relate to future events or future
+
+performance
+
+which are only projections opinions and
+
+hypotheticals about possible future
+
+events conditions outcomes and results
+
+actual events or results May differ
+
+materially quite funny considering what
+
+I just
+
+mentioned anyways the first part of the
+
+report looks at what's been happening on
+
+chain with Bitcoin the reports authors
+
+found that the supply of BTC reserves on
+
+exchanges hit its lowest level in over 5
+
+years it's not clear whether this means
+
+the total BTC on exchanges or just the
+
+BTC held in cold wallets or cold storage
+
+on that note if you're looking to get a
+
+hardware wallet and want a huge discount
+
+check out the deals page in the
+
+description in any case the decline in
+
+BTC on exchanges means two things first
+
+it means that most BTC holders are
+
+hodling I.E not selling though there was
+
+a bit of selling during the crash in
+
+early
+
+2022 second it means that btc's price is
+
+likely to be more volatile since there's
+
+less Market depth on exchanges in plain
+
+English less BTC on exchanges means it's
+
+easier to push the price up or down
+
+oddly enough the authors explain it as
+
+quote a smaller pool of participants is
+
+wielding a more significant sway over
+
+bitcoin's price and they warn that this
+
+means traditional crypto market analysis
+
+may not work probably nothing any anyhow
+
+the authors also examined another
+
+indicator called coind days destroyed if
+
+you watched our video about glass node
+
+and Arc invests new way of analyzing
+
+Bitcoin on chain you'll know all about
+
+these exotic indicators and how they can
+
+be made more accurate by adjusting how
+
+they're measured as explained by the
+
+authors of this report quote coin days
+
+destroyed CDD is a crucial metric for
+
+Bitcoin Supply analysis here's how it
+
+works for any given movement of coins on
+
+the blockchain multiply the number of
+
+coins by the days since they last moved
+
+the result is what you see here and I'll
+
+note that the authors used a 30-day
+
+moving average for this indicator as you
+
+can hopefully see the number of coin
+
+days destroyed spikes around BTC tops
+
+and bottoms be they local or Market
+
+cycle this basically tells you that the
+
+Bitcoin whales are waking up note that
+
+we'll leave a link to that indicator in
+
+the Des description it's completely free
+
+now the authors then zoom in on an
+
+abnormal onchain finding and that's that
+
+while short-term holders seem to be
+
+holding medium-term holders seem to be
+
+selling for context short-term is any
+
+wallet that's held BTC for 6 to 12
+
+months and medium-term is any wallet
+
+that's held BTC for 12 to 18 months
+
+logically the authors speculate that
+
+medium-term holders are taking profits
+
+now this is strange considering the
+
+average price of BTC held over the
+
+medium term is almost exactly what it is
+
+now it's also strange that the authors
+
+say this is normal behavior in early
+
+bull markets regardless they then pivot
+
+to comparing btc's price action to that
+
+of the S&P 500 Index they estimate that
+
+the S&P is close to finding its local
+
+bottom they note that this is
+
+significant because risk assets like BTC
+
+tend to Rally as soon as stock market
+
+indices like the SNP find their bottoms
+
+there are just two problems with that
+
+analysis the first is that BTC hasn't
+
+been very correlated to the stock market
+
+recently the second is that the exact
+
+opposite seems to have happened last
+
+week the s&p500 rallied from the local
+
+bottom which bitfinex predicted but BTC
+
+didn't Pump It dumped this ties into
+
+another questionable analysis and that's
+
+the so-called recber and up October
+
+phenomena for reference BTC has
+
+historically done poorly in September
+
+but well in October hence the names the
+
+thing is that this data is heavily
+
+skewed by outlier months in Bull markets
+
+and bare markets for example if you
+
+remove the Octobers that occurred during
+
+bull markets btc's returns for October
+
+are sideways to down which is what we've
+
+mostly seen so far at least at the time
+
+of shooting but of course the authors
+
+conclude that btc's price should should
+
+go up in October like many of us have
+
+maybe it still will who knows anywh who
+
+to their credit the authors seem to have
+
+the right idea when it comes to
+
+analyzing Market sector rotations first
+
+the market for US Government debt aka
+
+the bond market rallies then the stock
+
+market rallies and then the crypto
+
+Market rallies the thing is that the
+
+bond market hasn't rallied yet not only
+
+that but a bond market rally typically
+
+corresponds to a flight to safety
+
+meaning that investors are selling
+
+assets like stocks and crypto for US
+
+Dollars and bonds as such you could say
+
+that the best time to accumulate stocks
+
+and cryptos is during bond market
+
+rallies not Financial advice obviously
+
+now the last two indicators the authors
+
+look at in this section are volatility
+
+and the take by sell ratio the tldr is
+
+that btc's volatility indicators suggest
+
+that it could Spike up or or down while
+
+the take by sell ratio suggests that
+
+retail investors are starting to rotate
+
+out of BTC and into altcoins this is
+
+another analysis that's been invalidated
+
+by recent events Bitcoin dominance hit a
+
+three-month High last week this is not
+
+surprising given that Bitcoin dominance
+
+tends to rise in the months leading up
+
+to the Bitcoin Haring in retrospect the
+
+take by sell ratio could have been
+
+insiders taking profits on alts in the
+
+second part of the report the authors
+
+provide a General market update they
+
+start by pointing out that consumer
+
+confidence continues to be on a
+
+long-term decline this is significant
+
+because most economic growth in the US
+
+is driven by consumption less
+
+consumption means less economic growth
+
+the authors also point out that the FED
+
+intends on doing one more rate hike and
+
+keeping rates High into 2024 if you
+
+watched our video about the fed's last
+
+press conference you'll know that
+
+chairman Jerome Powell appears to be
+
+very concerned about a recession this
+
+could change the fed's interest rate
+
+plans that said the authors then
+
+highlight the fact that consumers
+
+apparently do not plan on reducing their
+
+consumption despite the declining
+
+confidence they're also not planning on
+
+buying houses anytime soon this makes
+
+sense considering that mortgage rates
+
+are at multi-decade highs what's
+
+fascinating is that many people who
+
+recently purchased homes have decided to
+
+lock in their current mortgage rates
+
+this presumably implies that they
+
+believe interest rates will rise even
+
+higher than they already are this is an
+
+outcome that the authors also foresee
+
+due to housing driven inflation if you
+
+watched our video about the housing
+
+market from last year however you'll
+
+know that the thing that drives housing
+
+prices is ultimately the demand for
+
+short-term and long-term rents depending
+
+on the location there could be a decline
+
+in both which will inevitably result in
+
+lower housing prices moreover housing
+
+prices often fall the most during a
+
+recession which could still be coming
+
+not surprisingly one of the only
+
+economic sectors that's continued to
+
+Boom over the last few months has been
+
+the defense sector this is due to the
+
+unprecedented military support for
+
+Ukraine and what's likely to be a
+
+similar amount of military support for
+
+Israel however the authors noticed an
+
+uptick in orders for Goods in general
+
+even when you strip out those related to
+
+defense now this could be explained by
+
+the fact that there was initially an
+
+overs supply of goods because of
+
+pandemic restrictions a return to
+
+regularly scheduled manufacturing could
+
+be the reason the authors predict that
+
+high interest rates will eventually
+
+bring manufacturing back down except for
+
+defense related manufacturing if you
+
+watched our video about the man who
+
+predicted everything however you'll know
+
+Manufacturing could continue to run hot
+
+due to all the fiscal spending you know
+
+it's telling that bitfinex is analyzing
+
+all of this it seems that everyone is a
+
+macro analyst these days in all
+
+seriousness the authors also looked at
+
+US GDP which was recently revised down
+
+but remains strong at over 2% per year
+
+the next GDP figure will be released on
+
+the 26th of October if it comes in
+
+higher than expected the FED May commit
+
+to staying higher for longer and deliver
+
+one more rate hike at its next meeting
+
+what's bizarre is that the authors claim
+
+that economic growth will come down as
+
+high interest rates start to affect the
+
+economy particularly the housing market
+
+this seems to contradict their earlier
+
+claim that the housing market will
+
+continue to be a source of inflation
+
+that housing prices will stay high based
+
+on our admittedly amateur understanding
+
+of the US housing market it's one of the
+
+markets least likely to see a downturn
+
+due to higher interest rates that's
+
+simply because most us homeowners have
+
+locked in a fixed interest rate for 30
+
+years 70% to be exact another 10% have
+
+locked in for 15 years specifics aside
+
+the authors note that the combination of
+
+declining inflation and strong economic
+
+growth is increasing expectations of a
+
+soft Landing AKA no recession because of
+
+high interest rates if history is any
+
+indication however it's not a question
+
+of if but when we'll see a recession the
+
+authors of this report seem to agree and
+
+conclude with a sobering Insight quote
+
+potential challenges in the year's
+
+concluding months include the ongoing
+
+United Auto Workers strike resumption of
+
+student loan repayments heightened
+
+energy costs and persistently High
+
+interest rates you can add a potential
+
+regional conflict in the Middle East to
+
+that list more about that in the
+
+description now in the final part of the
+
+report the authors go over a few key
+
+crypto headlines which you've probably
+
+heard by now recall that this report was
+
+published in the first week of October
+
+even so the selection of headlines is
+
+eye openening the first one is about
+
+Tera co-founder do Quan for those
+
+unfamiliar tether's former CTO and new
+
+CEO Paulo Arduino who also happens to be
+
+the CTO of bitfinex was critical of
+
+tera's us stablecoin and referred to
+
+tera's decision to back us with BTC as a
+
+quote recipe for disaster now this
+
+criticism was expected given that us was
+
+a competitor to centralized stablecoins
+
+like tether's usdt ironically though
+
+tether has since revealed that its usdt
+
+stable coin is partially backed by BTC
+
+and is also committed to using a portion
+
+of its monthly profits to buy BTC to
+
+hold as additional reserves the fact
+
+that a story about dquan is the first in
+
+this bitfinex report is therefore
+
+peculiar given these circumstances it's
+
+a similar situation with the second
+
+story in bitfinex's report which is
+
+about a fraudulent crypto company called
+
+Icom Tech which promised investors
+
+abnormally High returns from crypto
+
+trading and Mining as expected neither
+
+of these Ventures existed and the money
+
+was being spent elsewhere now two things
+
+stand out about this story the first is
+
+that Icom Tech was shut down way back in
+
+2019 the only reason it was in the news
+
+recently was because its founder finally
+
+pleaded guilty the second is that tether
+
+has launched multiple initiatives
+
+related to Bitcoin mining over the last
+
+year the mention of this story could
+
+therefore be a consequence of tether's
+
+interest in the Bitcoin mining industry
+
+I'll remind you that tether is
+
+bitfinex's sister company though the ex
+
+exact relationship between them isn't
+
+entirely clear never mind the fact that
+
+they have overlapping employees like
+
+poo anyway speculation aside the third
+
+story in bitfinex's report is even more
+
+peculiar it's about the sec's potential
+
+approval of ethereum Futures ETFs which
+
+subsequently launched just recently this
+
+is peculiar because bitfinex and tether
+
+appear to be focused on bitcoin not
+
+ethereum to be fair they mention the
+
+Bitcoin ETFs a lot still it's surprising
+
+that they included this story from our
+
+perspective it's possible that this has
+
+to do with the asset managers involved
+
+namely Valkyrie as reported by coindesk
+
+valkyrie's largest client was and still
+
+could be Tron founder Justin Sun News
+
+flash most of the usdt in circulation
+
+exists on Tron probably just a
+
+coincidence now the the final Story the
+
+bitfinex report unpacked might be the
+
+most peculiar of the four that's because
+
+it talks about how Taiwan is introducing
+
+stricter crypto regulations this is a
+
+reference to the decision to ban
+
+unregistered crypto exchanges from
+
+operating in the country which makes
+
+sense the authors also cite another
+
+headline about how the Taiwanese crypto
+
+industry is effectively fighting back by
+
+forming what is essentially a group that
+
+will Lobby for crypto interests this
+
+Lobby group presumably hopes to change
+
+the regulations for unregistered
+
+exchanges before they pass in November
+
+now this is peculiar because te and
+
+bitfinex are believed to be
+
+headquartered in Hong Kong which is
+
+technically part of China Tron itself
+
+hails from China and in case you forgot
+
+hosts most of the usdt in circulation
+
+and as all of you will know the CCP
+
+believes that Taiwan is part of China
+
+China as well given these facts it's
+
+possible that the author's choice to
+
+select this story is related to the
+
+allegiances of tether bitfinex and Tron
+
+their largest crypto partner even if
+
+this isn't the case it clearly pertains
+
+to tether most crypto exchanges use
+
+usdt cracking down on exchanges hurts
+
+tether's bottom line so this brings us
+
+to the big question and that's what all
+
+of this means for the crypto Market well
+
+for starters it underscores the fact
+
+that indicators can and often do tell
+
+you when volatility is about to strike
+
+but the direction is almost always a
+
+tossup in this case bitfinex forecasted
+
+a pump and we saw a dump instead at the
+
+same time it underscores the fact that
+
+we seem to be entering a very volatile
+
+period not just in crypto but also in
+
+macro some of these factors are
+
+relatively predictable like the fed's
+
+rate hikes others are not so predictable
+
+such as a war breaking out in the Middle
+
+East it's these unpredictable factors
+
+that make it impossible to know with
+
+100% certainty where any Market is
+
+headed next the crypto Market is no
+
+exception and some would say that it's
+
+even worse as a relatively new asset
+
+class it's extremely volatile and the
+
+ways of analyzing it are pretty new as
+
+well the perfect example here is onchain
+
+analysis which is as promising as it is
+
+imperfect now the silver aligning to
+
+this is that it seems to be sufficient
+
+to get a sense of what's going on with
+
+large cryptos such as BTC the fact that
+
+the bitfinex report started at the
+
+onchain level should be assigned to use
+
+these indicators more often the fact of
+
+the matter is that when there is less
+
+BTC on exchanges then btc's price is
+
+more volatile when you realize that the
+
+balance of BTC on exchanges is in a
+
+strong downtrend it begs the question of
+
+how the Bitcoin Market will ever be
+
+liquid enough for large institutional
+
+investors to get involved as experienced
+
+macro investor Ral pal pointed out in a
+
+recent interview with my colleague
+
+Jessica one of the main reasons why
+
+institutions are sitting on the
+
+sidelines in crypto is because of a lack
+
+of liquidity the exit of large market
+
+makers and the scrutiny of crypto
+
+exchanges has increased that drain in
+
+recent months in case you haven't
+
+noticed the scrutiny of crypto exchanges
+
+continues in most countries countes
+
+notably the US the fact that the US
+
+economy itself seems to be slowly but
+
+surely sliding into Ray recession
+
+suggests that there won't be many market
+
+makers exchanges or investors running to
+
+fill up crypto's liquidity pool speaking
+
+of which it's possible that the macro
+
+level volatility we're starting to
+
+experience due to things like
+
+geopolitics could cause the crypto
+
+markets to puke in the not so distant
+
+future the prospect of a double bottom
+
+seems plaus aible given that we saw a
+
+double top in the previous cycle a
+
+capitulation among long-term Bitcoin
+
+holders is also probably something that
+
+black rock and Co would like to see or
+
+even need to see before a spot Bitcoin
+
+ETF is approved at the end of the day
+
+that BTC needs to come from somewhere be
+
+it the offshore exchanges or the
+
+hardcore BTC hodlers chances are that
+
+it's going to be a combination of both
+
+and it's going to be interesting to see
+
+where entities like bitfinex and tether
+
+end up once the dust settles for all
+
+their faults these companies have played
+
+a key role in growing the crypto
+
+industry to the size it is today whether
+
+they will continue to play a key role
+
+going forward remains to be seen if they
+
+don't then that guarantees that a
+
+shakeup of some kind will have to occur
+
+and that will likely be bad for crypto
+
+prices if they do then it's possible
+
+that crypto won't check the regulatory
+
+boxes it needs to keep growing but hey
+
+who knows maybe there's a happy medium
+
+out there somewhere let's just hope they
+
+find
+
+it and that's all for today's video
+
+folks if you found it informative smash
+
+that like button to let us know if you
+
+want to stay informed be sure to
+
+subscribe to the channel and ping that
+
+notification Bell if you want to help
+
+inform your crypto friends and family
+
+take a second to share this video with
+
+them and while you're at it tell them
+
+about the coin Bureau deals page where
+
+they can find up to $40,000 of bonuses
+
+and up to 60% discounts on trading fees
+
+on the best crypto exchanges remember it
+
+also has the biggest discounts on the
+
+best hardware wallets too so the link to
+
+that page will be down in the
+
+description thank you all so much for
+
+watching and I'll see you next time this
+
+is guy over and
+
+[Music]
+
+out
+
